@@ -1,0 +1,8 @@
+﻿  WindowsProject1.cpp
+C:\Users\Workmachine\Documents\Программы\WindowsProject1\WindowsProject1\WindowsProject1.cpp(42,10): warning C4244: 'initializing': conversion from 'WCHAR' to 'char', possible loss of data
+C:\Users\Workmachine\Documents\Программы\WindowsProject1\WindowsProject1\WindowsProject1.cpp(59,56): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+C:\Users\Workmachine\Documents\Программы\WindowsProject1\WindowsProject1\WindowsProject1.cpp(60,63): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+C:\Users\Workmachine\Documents\Программы\WindowsProject1\WindowsProject1\WindowsProject1.cpp(104,17): warning C4312: 'type cast': conversion from 'int' to 'HMENU' of greater size
+C:\Users\Workmachine\Documents\Программы\WindowsProject1\WindowsProject1\WindowsProject1.cpp(105,14): warning C4312: 'type cast': conversion from 'int' to 'HMENU' of greater size
+C:\Users\Workmachine\Documents\Программы\WindowsProject1\WindowsProject1\WindowsProject1.cpp(117,12): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  WindowsProject1.vcxproj -> C:\Users\Workmachine\Documents\Программы\WindowsProject1\x64\Debug\WindowsProject1.exe
